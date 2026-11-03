@@ -1,7 +1,7 @@
 {
   "name": "@zmanuel1234/homebridge-tuya",
   "displayName": "Homebridge Tuya (zman)",
-  "version": "2.7.1-zman.9",
+  "version": "2.7.1-zman.10",
   "description": "Forked from 0x5e/homebridge-tuya-platform, with a focus on fixing bugs and adding new device support.",
   "license": "MIT",
   "repository": {
