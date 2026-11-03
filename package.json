@@ -1,16 +1,16 @@
 {
-  "name": "@homebridge-plugins/homebridge-tuya",
-  "displayName": "Homebridge Tuya",
-  "version": "2.7.1",
+  "name": "@zmanuel1234/homebridge-tuya",
+  "displayName": "Homebridge Tuya (zman)",
+  "version": "2.7.1-zman.9",
   "description": "Forked from 0x5e/homebridge-tuya-platform, with a focus on fixing bugs and adding new device support.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/homebridge-plugins/homebridge-tuya"
+    "url": "https://github.com/zmanuel1234/homebridge-tuya"
   },
-  "homepage": "https://github.com/homebridge-plugins/homebridge-tuya#readme",
+  "homepage": "https://github.com/zmanuel1234/homebridge-tuya#readme",
   "bugs": {
-    "url": "https://github.com/homebridge-plugins/homebridge-tuya/issues"
+    "url": "https://github.com/zmanuel1234/homebridge-tuya/issues"
   },
   "funding": [
     {

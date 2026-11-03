@@ -135,3 +135,6 @@ web_modules/
 
 # IntelliJ IDEA
 .idea
+
+# migration scripts and built package for the Pi
+migration
